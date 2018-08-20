@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "dotnet-saml-master", ".", "{8277C67F-AC1B-4671-A10E-6D47C3322714}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_52484"
+		Debug.AspNetCompiler.PhysicalPath = "..\dotnet-saml-master\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_52484\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_52484"
+		Release.AspNetCompiler.PhysicalPath = "..\dotnet-saml-master\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_52484\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "52484"
+		SlnRelativePath = "..\dotnet-saml-master\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8277C67F-AC1B-4671-A10E-6D47C3322714}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8277C67F-AC1B-4671-A10E-6D47C3322714}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8277C67F-AC1B-4671-A10E-6D47C3322714}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{8277C67F-AC1B-4671-A10E-6D47C3322714}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {24501D4B-D1DA-4D13-9932-B070A6339D6E}
+	EndGlobalSection
+EndGlobal
